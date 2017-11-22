@@ -28,17 +28,18 @@ exchangerBot.router.on('example_callback', ctx => {
 
 
 use Rest-API (proexchanger): https://proexchanger.net/api/v1/public_get_list_monitoring_exchanger
-###Example result:
+
+### Example result:
 ```
 
 {
 result: [
   {
-  _id: "59ff4e06dacf3714f804d969",
-  link: "https://100btc.pro/?rid=2188",
-  xml: "https://100btc.pro/request-exportxml.xml",
-  website: "https://100btc.pro",
-  name: "100Btc"
+      _id: "59ff4e06dacf3714f804d969",
+      link: "https://100btc.pro/?rid=2188",
+      xml: "https://100btc.pro/request-exportxml.xml",
+      website: "https://100btc.pro",
+      name: "100Btc"
   }, ...more...
 ],
 success: true,
