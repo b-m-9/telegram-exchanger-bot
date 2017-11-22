@@ -1,0 +1,16 @@
+{
+  "name": "exchange_bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Vladimir Luss <stainful@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "request": "^2.81.0",
+    "telegraf": "^3.14.0",
+    "x2js": "^3.1.1"
+  }
+}

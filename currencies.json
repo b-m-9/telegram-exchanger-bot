@@ -1,0 +1,2222 @@
+{
+  "WMZ":{
+    "name":"Webmoney USD",
+    "code":"WMZ",
+    "dCode":"001"
+  },
+  "WMR":{
+    "name":"Webmoney RUB",
+    "code":"WMR",
+    "dCode":"002"
+  },
+  "WME":{
+    "name":"Webmoney EUR",
+    "code":"WME",
+    "dCode":"003"
+  },
+  "WMB":{
+    "name":"Webmoney BYR",
+    "code":"WMB",
+    "dCode":"004"
+  },
+  "WMG":{
+    "name":"Webmoney Gold",
+    "code":"WMG",
+    "dCode":"005"
+  },
+  "WMU":{
+    "name":"Webmoney UAH",
+    "code":"WMU",
+    "dCode":"006"
+  },
+  "WMC":{
+    "name":"Webmoney Credit",
+    "code":"WMC",
+    "dCode":"008"
+  },
+  "WMX":{
+    "name":"Webmoney X",
+    "code":"WMX",
+    "dCode":"009"
+  },
+  "WMK":{
+    "name":"Webmoney KZT",
+    "code":"WMK",
+    "dCode":"010"
+  },
+  "YAMRUB":{
+    "name":"Yandex.Money RUB",
+    "code":"YAMRUB",
+    "dCode":"020"
+  },
+  "RBKMRUB":{
+    "name":"RBKmoney RUB",
+    "code":"RBKMRUB",
+    "dCode":"030"
+  },
+  "RBKMUSD":{
+    "name":"RBKmoney USD",
+    "code":"RBKMUSD",
+    "dCode":"031"
+  },
+  "ESPBYR":{
+    "name":"EasyPay BYR",
+    "code":"ESPBYR",
+    "dCode":"040"
+  },
+  "EBCUR":{
+    "name":"E-Bullion e-Currency",
+    "code":"EBCUR",
+    "dCode":"050"
+  },
+  "EBG":{
+    "name":"E-Bullion Gold",
+    "code":"EBG",
+    "dCode":"051"
+  },
+  "EDRM":{
+    "name":"EDram",
+    "code":"EDRM",
+    "dCode":"060"
+  },
+  "FETUSD":{
+    "name":"Fethard USD",
+    "code":"FETUSD",
+    "dCode":"070"
+  },
+  "AGUSD":{
+    "name":"AlterGold USD",
+    "code":"AGUSD",
+    "dCode":"080"
+  },
+  "IMUAH":{
+    "name":"IMoney UAH",
+    "code":"IMUAH",
+    "dCode":"090"
+  },
+  "INCRUB":{
+    "name":"INOCard RUB",
+    "code":"INCRUB",
+    "dCode":"100"
+  },
+  "LRUSD":{
+    "name":"Liberty Reserve USD",
+    "code":"LRUSD",
+    "dCode":"110"
+  },
+  "LREUR":{
+    "name":"Liberty Reserve EUR",
+    "code":"LREUR",
+    "dCode":"111"
+  },
+  "LRG":{
+    "name":"Liberty Reserve Gold",
+    "code":"LRG",
+    "dCode":"112"
+  },
+  "EMMDL":{
+    "name":"Emoney.md MDL",
+    "code":"EMMDL",
+    "dCode":"120"
+  },
+  "MWRUB":{
+    "name":"Mobile Wallet RUB",
+    "code":"MWRUB",
+    "dCode":"130"
+  },
+  "SKLUSD":{
+    "name":"Skrill USD",
+    "code":"SKLUSD",
+    "dCode":"140"
+  },
+  "SKLEUR":{
+    "name":"Skrill EUR",
+    "code":"SKLEUR",
+    "dCode":"141"
+  },
+  "MMLEUR":{
+    "name":"MoneyMail EUR",
+    "code":"MMLEUR",
+    "dCode":"150"
+  },
+  "MMLRUB":{
+    "name":"MoneyMail RUB",
+    "code":"MMLRUB",
+    "dCode":"151"
+  },
+  "MMLUSD":{
+    "name":"MoneyMail USD",
+    "code":"MMLUSD",
+    "dCode":"152"
+  },
+  "PPAUD":{
+    "name":"PayPal AUD",
+    "code":"PPAUD",
+    "dCode":"160"
+  },
+  "PPCAD":{
+    "name":"PayPal CAD",
+    "code":"PPCAD",
+    "dCode":"161"
+  },
+  "PPEUR":{
+    "name":"PayPal EUR",
+    "code":"PPEUR",
+    "dCode":"162"
+  },
+  "PPGBP":{
+    "name":"PayPal GBP",
+    "code":"PPGBP",
+    "dCode":"163"
+  },
+  "PPUSD":{
+    "name":"PayPal USD",
+    "code":"PPUSD",
+    "dCode":"164"
+  },
+  "PPRUB":{
+    "name":"PayPal RUB",
+    "code":"PPRUB",
+    "dCode":"165"
+  },
+  "PXUSD":{
+    "name":"Pecunix USD",
+    "code":"PXUSD",
+    "dCode":"170"
+  },
+  "UAMUSD":{
+    "name":"UA-Money USD",
+    "code":"UAMUSD",
+    "dCode":"180"
+  },
+  "UMEUR":{
+    "name":"UkrMoney EUR",
+    "code":"UMEUR",
+    "dCode":"190"
+  },
+  "UMRUB":{
+    "name":"UkrMoney RUB",
+    "code":"UMRUB",
+    "dCode":"191"
+  },
+  "UMUAH":{
+    "name":"UkrMoney UAH",
+    "code":"UMUAH",
+    "dCode":"192"
+  },
+  "UMUSD":{
+    "name":"UkrMoney USD",
+    "code":"UMUSD",
+    "dCode":"193"
+  },
+  "VMUSD":{
+    "name":"V-Money USD",
+    "code":"VMUSD",
+    "dCode":"200"
+  },
+  "WORUB":{
+    "name":"W1 RUB",
+    "code":"WORUB",
+    "dCode":"210"
+  },
+  "WOUSD":{
+    "name":"W1 USD",
+    "code":"WOUSD",
+    "dCode":"211"
+  },
+  "WOUAH":{
+    "name":"W1 UAH",
+    "code":"WOUAH",
+    "dCode":"212"
+  },
+  "WOKZT":{
+    "name":"W1 KZT",
+    "code":"WOKZT",
+    "dCode":"213"
+  },
+  "CGUSD":{
+    "name":"C-Gold USD",
+    "code":"CGUSD",
+    "dCode":"220"
+  },
+  "CGEUR":{
+    "name":"C-Gold EUR",
+    "code":"CGEUR",
+    "dCode":"221"
+  },
+  "DKEUR":{
+    "name":"DeltaKey EUR",
+    "code":"DKEUR",
+    "dCode":"230"
+  },
+  "DKRUB":{
+    "name":"DeltaKey RUB",
+    "code":"DKRUB",
+    "dCode":"231"
+  },
+  "DKUSD":{
+    "name":"DeltaKey USD",
+    "code":"DKUSD",
+    "dCode":"232"
+  },
+  "ICQM":{
+    "name":"ICQMoney UNI",
+    "code":"ICQM",
+    "dCode":"233"
+  },
+  "DKUAH":{
+    "name":"DeltaKey UAH",
+    "code":"DKUAH",
+    "dCode":"234"
+  },
+  "PMUSD":{
+    "name":"Perfect Money USD",
+    "code":"PMUSD",
+    "dCode":"240"
+  },
+  "PMEUR":{
+    "name":"Perfect Money EUR",
+    "code":"PMEUR",
+    "dCode":"241"
+  },
+  "PMG":{
+    "name":"Perfect Money Gold",
+    "code":"PMG",
+    "dCode":"242"
+  },
+  "PMBTC":{
+    "name":"Perfect Money BTC",
+    "code":"PMBTC",
+    "dCode":"243"
+  },
+  "PMVUSD":{
+    "name":"Perfect Money Voucher USD",
+    "code":"PMVUSD",
+    "dCode":"244"
+  },
+  "PAUSD":{
+    "name":"Payza USD",
+    "code":"PAUSD",
+    "dCode":"250"
+  },
+  "PAEUR":{
+    "name":"Payza EUR",
+    "code":"PAEUR",
+    "dCode":"251"
+  },
+  "NXUSD":{
+    "name":"Numox USD",
+    "code":"NXUSD",
+    "dCode":"260"
+  },
+  "LQUSD":{
+    "name":"LiqPay USD",
+    "code":"LQUSD",
+    "dCode":"270"
+  },
+  "LQUAH":{
+    "name":"LiqPay UAH",
+    "code":"LQUAH",
+    "dCode":"271"
+  },
+  "LQRUB":{
+    "name":"LiqPay RUB",
+    "code":"LQRUB",
+    "dCode":"272"
+  },
+  "LQEUR":{
+    "name":"LiqPay EUR",
+    "code":"LQEUR",
+    "dCode":"273"
+  },
+  "ZPRUB":{
+    "name":"Z-Payment RUB",
+    "code":"ZPRUB",
+    "dCode":"280"
+  },
+  "NNMUSD":{
+    "name":"NN-Money USD",
+    "code":"NNMUSD",
+    "dCode":"290"
+  },
+  "CBEKR":{
+    "name":"Combats EKR",
+    "code":"CBEKR",
+    "dCode":"300"
+  },
+  "STUSD":{
+    "name":"Star Trek USD",
+    "code":"STUSD",
+    "dCode":"310"
+  },
+  "STRUB":{
+    "name":"Star Trek RUB",
+    "code":"STRUB",
+    "dCode":"311"
+  },
+  "WCUSD":{
+    "name":"Webcreds USD",
+    "code":"WCUSD",
+    "dCode":"320"
+  },
+  "WCRUB":{
+    "name":"Webcreds RUB",
+    "code":"WCRUB",
+    "dCode":"321"
+  },
+  "WCEUR":{
+    "name":"Webcreds EUR",
+    "code":"WCEUR",
+    "dCode":"322"
+  },
+  "WIREUSD":{
+    "name":"Wire USD",
+    "code":"WIREUSD",
+    "dCode":"330"
+  },
+  "WIREEUR":{
+    "name":"Wire EUR",
+    "code":"WIREEUR",
+    "dCode":"331"
+  },
+  "WIRERUB":{
+    "name":"Wire RUB",
+    "code":"WIRERUB",
+    "dCode":"332"
+  },
+  "WIREUAH":{
+    "name":"Wire UAH",
+    "code":"WIREUAH",
+    "dCode":"333"
+  },
+  "WIREKZT":{
+    "name":"Wire KZT",
+    "code":"WIREKZT",
+    "dCode":"334"
+  },
+  "WIREGBP":{
+    "name":"Wire GBP",
+    "code":"WIREGBP",
+    "dCode":"335"
+  },
+  "WIRELTL":{
+    "name":"Wire LTL",
+    "code":"WIRELTL",
+    "dCode":"336"
+  },
+  "WIREBYR":{
+    "name":"Wire BYR",
+    "code":"WIREBYR",
+    "dCode":"337"
+  },
+  "WIRETHB":{
+    "name":"Wire THB",
+    "code":"WIRETHB",
+    "dCode":"338"
+  },
+  "WIREPLN":{
+    "name":"Wire PLN",
+    "code":"WIREPLN",
+    "dCode":"339"
+  },
+  "WIRECNY":{
+    "name":"Wire CNY",
+    "code":"WIRECNY",
+    "dCode":"340"
+  },
+  "WIREMYR":{
+    "name":"Wire MYR",
+    "code":"WIREMYR",
+    "dCode":"341"
+  },
+  "WIRECZK":{
+    "name":"Wire CZK",
+    "code":"WIRECZK",
+    "dCode":"342"
+  },
+  "CARDUSD":{
+    "name":"Card USD",
+    "code":"CARDUSD",
+    "dCode":"350"
+  },
+  "CARDEUR":{
+    "name":"Card EUR",
+    "code":"CARDEUR",
+    "dCode":"351"
+  },
+  "CARDRUB":{
+    "name":"Card RUB",
+    "code":"CARDRUB",
+    "dCode":"352"
+  },
+  "CARDUAH":{
+    "name":"Card UAH",
+    "code":"CARDUAH",
+    "dCode":"353"
+  },
+  "CARDKZT":{
+    "name":"Card KZT",
+    "code":"CARDKZT",
+    "dCode":"354"
+  },
+  "CARDLTL":{
+    "name":"Card LTL",
+    "code":"CARDLTL",
+    "dCode":"355"
+  },
+  "CARDGBP":{
+    "name":"Card GBP",
+    "code":"CARDGBP",
+    "dCode":"356"
+  },
+  "CARDAMD":{
+    "name":"Card AMD",
+    "code":"CARDAMD",
+    "dCode":"357"
+  },
+  "CARDBYN":{
+    "name":"Card BYN",
+    "code":"CARDBYN",
+    "dCode":"358"
+  },
+  "CASHUSD":{
+    "name":"Cash USD",
+    "code":"CASHUSD",
+    "dCode":"370"
+  },
+  "CASHEUR":{
+    "name":"Cash EUR",
+    "code":"CASHEUR",
+    "dCode":"371"
+  },
+  "CASHRUB":{
+    "name":"Cash RUB",
+    "code":"CASHRUB",
+    "dCode":"372"
+  },
+  "CASHUAH":{
+    "name":"Cash UAH",
+    "code":"CASHUAH",
+    "dCode":"373"
+  },
+  "CASHKZT":{
+    "name":"Cash KZT",
+    "code":"CASHKZT",
+    "dCode":"374"
+  },
+  "CASHLTL":{
+    "name":"Cash LTL",
+    "code":"CASHLTL",
+    "dCode":"375"
+  },
+  "CASHGBP":{
+    "name":"Cash GBP",
+    "code":"CASHGBP",
+    "dCode":"376"
+  },
+  "CASHCNY":{
+    "name":"Cash CNY",
+    "code":"CASHCNY",
+    "dCode":"377"
+  },
+  "CASHAMD":{
+    "name":"Cash AMD",
+    "code":"CASHAMD",
+    "dCode":"378"
+  },
+  "CASHTHB":{
+    "name":"Cash THB",
+    "code":"CASHTHB",
+    "dCode":"379"
+  },
+  "PPTUSD":{
+    "name":"PayPlat USD",
+    "code":"PPTUSD",
+    "dCode":"380"
+  },
+  "PPTRUB":{
+    "name":"PayPlat RUB",
+    "code":"PPTRUB",
+    "dCode":"381"
+  },
+  "PPTEUR":{
+    "name":"PayPlat EUR",
+    "code":"PPTEUR",
+    "dCode":"382"
+  },
+  "MNTRUB":{
+    "name":"Moneta RUB",
+    "code":"MNTRUB",
+    "dCode":"390"
+  },
+  "NTLRUSD":{
+    "name":"Neteller USD",
+    "code":"NTLRUSD",
+    "dCode":"400"
+  },
+  "NTLREUR":{
+    "name":"Neteller EUR",
+    "code":"NTLREUR",
+    "dCode":"401"
+  },
+  "TBRUB":{
+    "name":"Telebank RUB",
+    "code":"TBRUB или VTB24RUB",
+    "dCode":"410"
+  },
+  "VTB24RUB":{
+    "name":"Telebank RUB",
+    "code":"TBRUB или VTB24RUB",
+    "dCode":"410"
+  },
+  "VTB24USD":{
+    "name":"VTB24 USD",
+    "code":"VTB24USD",
+    "dCode":"411"
+  },
+  "VTB24EUR":{
+    "name":"VTB24 EUR",
+    "code":"VTB24EUR",
+    "dCode":"412"
+  },
+  "ACRUB":{
+    "name":"Alfa Bank RUB",
+    "code":"ACRUB",
+    "dCode":"420"
+  },
+  "ACUAH":{
+    "name":"Alfa Bank UAH",
+    "code":"ACUAH",
+    "dCode":"421"
+  },
+  "ACKZT":{
+    "name":"Alfa Bank KZT",
+    "code":"ACKZT",
+    "dCode":"422"
+  },
+  "ACUSD":{
+    "name":"Alfa Bank USD",
+    "code":"ACUSD",
+    "dCode":"423"
+  },
+  "ACEUR":{
+    "name":"Alfa Bank EUR",
+    "code":"ACEUR",
+    "dCode":"424"
+  },
+  "PSBRUB":{
+    "name":"Promsvyazbank RUB",
+    "code":"PSBRUB",
+    "dCode":"430"
+  },
+  "P24USD":{
+    "name":"Privat24 USD",
+    "code":"P24USD",
+    "dCode":"440"
+  },
+  "P24UAH":{
+    "name":"Privat24 UAH",
+    "code":"P24UAH",
+    "dCode":"441"
+  },
+  "P24EUR":{
+    "name":"Privat24 EUR",
+    "code":"P24EUR",
+    "dCode":"442"
+  },
+  "P24RUB":{
+    "name":"Privat24 RUB",
+    "code":"P24RUB",
+    "dCode":"443"
+  },
+  "GDPUSD":{
+    "name":"GlobalDigitalPay USD",
+    "code":"GDPUSD",
+    "dCode":"450"
+  },
+  "GDPEUR":{
+    "name":"GlobalDigitalPay EUR",
+    "code":"GDPEUR",
+    "dCode":"451"
+  },
+  "TMRUB":{
+    "name":"Telemoney RUB",
+    "code":"TMRUB",
+    "dCode":"460"
+  },
+  "QWRUB":{
+    "name":"Qiwi RUB",
+    "code":"QWRUB",
+    "dCode":"470"
+  },
+  "QWUSD":{
+    "name":"Qiwi USD",
+    "code":"QWUSD",
+    "dCode":"471"
+  },
+  "QWEUR":{
+    "name":"Qiwi EUR",
+    "code":"QWEUR",
+    "dCode":"472"
+  },
+  "QWKZT":{
+    "name":"Qiwi KZT",
+    "code":"QWKZT",
+    "dCode":"473"
+  },
+  "QWVRUB":{
+    "name":"Qiwi Voucher RUB",
+    "code":"QWVRUB",
+    "dCode":"474"
+  },
+  "OKUSD":{
+    "name":"OKPay USD",
+    "code":"OKUSD",
+    "dCode":"480"
+  },
+  "OKRUB":{
+    "name":"OKPay RUB",
+    "code":"OKRUB",
+    "dCode":"481"
+  },
+  "OKEUR":{
+    "name":"OKPay EUR",
+    "code":"OKEUR",
+    "dCode":"482"
+  },
+  "OKGPB":{
+    "name":"OKPay GPB",
+    "code":"OKGPB",
+    "dCode":"483"
+  },
+  "WUUSD":{
+    "name":"Western Union USD",
+    "code":"WUUSD",
+    "dCode":"490"
+  },
+  "WURUB":{
+    "name":"Western Union RUB",
+    "code":"WURUB",
+    "dCode":"491"
+  },
+  "WUEUR":{
+    "name":"Western Union EUR",
+    "code":"WUEUR",
+    "dCode":"492"
+  },
+  "WUUAH":{
+    "name":"Western Union UAH",
+    "code":"WUUAH",
+    "dCode":"493"
+  },
+  "MGUSD":{
+    "name":"Moneygram USD",
+    "code":"MGUSD",
+    "dCode":"500"
+  },
+  "MGEUR":{
+    "name":"Moneygram EUR",
+    "code":"MGEUR",
+    "dCode":"501"
+  },
+  "EGCUSD":{
+    "name":"EuroGoldCash USD",
+    "code":"EGCUSD",
+    "dCode":"510"
+  },
+  "EGCEUR":{
+    "name":"EuroGoldCash EUR",
+    "code":"EGCEUR",
+    "dCode":"511"
+  },
+  "SBERRUB":{
+    "name":"SberBank RUB",
+    "code":"SBERRUB",
+    "dCode":"520"
+  },
+  "SBERKZT":{
+    "name":"SberBank KZT",
+    "code":"SBERKZT",
+    "dCode":"521"
+  },
+  "SBERUSD":{
+    "name":"SberBank USD",
+    "code":"SBERUSD",
+    "dCode":"522"
+  },
+  "SBERUAH":{
+    "name":"SberBank UAH",
+    "code":"SBERUAH",
+    "dCode":"523"
+  },
+  "RUSSTRUB":{
+    "name":"RusStandard RUB",
+    "code":"RUSSTRUB",
+    "dCode":"530"
+  },
+  "AVBRUB":{
+    "name":"Avangard RUB",
+    "code":"AVBRUB",
+    "dCode":"540"
+  },
+  "RFBRUB":{
+    "name":"Raiffeisen RUB",
+    "code":"RFBRUB",
+    "dCode":"550"
+  },
+  "RFBUAH":{
+    "name":"Raiffeisen UAH",
+    "code":"RFBUAH",
+    "dCode":"551"
+  },
+  "TRBRUB":{
+    "name":"Trust RUB",
+    "code":"TRBRUB",
+    "dCode":"560"
+  },
+  "SVBRUB":{
+    "name":"Svyaznoy RUB",
+    "code":"SVBRUB",
+    "dCode":"570"
+  },
+  "CWMRUB":{
+    "name":"Cash4wm RUB",
+    "code":"CWMRUB",
+    "dCode":"580"
+  },
+  "EPUSD":{
+    "name":"EgoPay USD",
+    "code":"EPUSD",
+    "dCode":"590"
+  },
+  "EPEUR":{
+    "name":"EgoPay EUR",
+    "code":"EPEUR",
+    "dCode":"591"
+  },
+  "STPUSD":{
+    "name":"SolidTrustPay USD",
+    "code":"STPUSD",
+    "dCode":"600"
+  },
+  "STPEUR":{
+    "name":"SolidTrustPay EUR",
+    "code":"STPEUR",
+    "dCode":"601"
+  },
+  "STPRUB":{
+    "name":"SolidTrustPay RUB",
+    "code":"STPRUB",
+    "dCode":"602"
+  },
+  "PWUSD":{
+    "name":"PayWeb USD",
+    "code":"PWUSD",
+    "dCode":"610"
+  },
+  "UKUSD":{
+    "name":"Ukash USD",
+    "code":"UKUSD",
+    "dCode":"620"
+  },
+  "UKEUR":{
+    "name":"Ukash EUR",
+    "code":"UKEUR",
+    "dCode":"621"
+  },
+  "PXMUSD":{
+    "name":"Paxum USD",
+    "code":"PXMUSD",
+    "dCode":"630"
+  },
+  "PXMEUR":{
+    "name":"Paxum EUR",
+    "code":"PXMEUR",
+    "dCode":"631"
+  },
+  "RPUSD":{
+    "name":"Redpass USD",
+    "code":"RPUSD",
+    "dCode":"640"
+  },
+  "EPMUSD":{
+    "name":"Epayments USD",
+    "code":"EPMUSD",
+    "dCode":"650"
+  },
+  "EPMEUR":{
+    "name":"ePayments EUR",
+    "code":"EPMEUR",
+    "dCode":"651"
+  },
+  "BTC":{
+    "name":"BitCoin",
+    "code":"BTC",
+    "dCode":"660"
+  },
+  "CUPCNY":{
+    "name":"ChinaUnionPay CNY",
+    "code":"CUPCNY",
+    "dCode":"670"
+  },
+  "TCSBRUB":{
+    "name":"Tinkoff CS RUB",
+    "code":"TCSBRUB",
+    "dCode":"680"
+  },
+  "TCSBUSD":{
+    "name":"Tinkoff CS USD",
+    "code":"TCSBUSD",
+    "dCode":"681"
+  },
+  "TCSBEUR":{
+    "name":"Tinkoff CS EUR",
+    "code":"TCSBEUR",
+    "dCode":"682"
+  },
+  "HCBRUB":{
+    "name":"Homecredit RUB",
+    "code":"HCBRUB",
+    "dCode":"690"
+  },
+  "DTBUAH":{
+    "name":"DeltaBank UAH",
+    "code":"DTBUAH",
+    "dCode":"700"
+  },
+  "DTBBYR":{
+    "name":"DeltaBank BYR",
+    "code":"DTBBYR",
+    "dCode":"701"
+  },
+  "KKBKZT":{
+    "name":"Kazkombank KZT",
+    "code":"KKBKZT",
+    "dCode":"710"
+  },
+  "KKBUSD":{
+    "name":"Kazkombank USD",
+    "code":"KKBUSD",
+    "dCode":"711"
+  },
+  "CNTRUB":{
+    "name":"Contact RUB",
+    "code":"CNTRUB",
+    "dCode":"720"
+  },
+  "CNTUSD":{
+    "name":"Contact USD",
+    "code":"CNTUSD",
+    "dCode":"721"
+  },
+  "CNTEUR":{
+    "name":"Contact EUR",
+    "code":"CNTEUR",
+    "dCode":"722"
+  },
+  "HDUSD":{
+    "name":"HD-Money USD",
+    "code":"HDUSD",
+    "dCode":"730"
+  },
+  "USBUAH":{
+    "name":"UkrSibBank UAH",
+    "code":"USBUAH",
+    "dCode":"740"
+  },
+  "PRUSD":{
+    "name":"Payeer USD",
+    "code":"PRUSD",
+    "dCode":"750"
+  },
+  "PREUR":{
+    "name":"Payeer EUR",
+    "code":"PREUR",
+    "dCode":"751"
+  },
+  "PRRUB":{
+    "name":"Payeer RUB",
+    "code":"PRRUB",
+    "dCode":"752"
+  },
+  "USTMUSD":{
+    "name":"Unistream USD",
+    "code":"USTMUSD",
+    "dCode":"760"
+  },
+  "USTMRUB":{
+    "name":"Unistream RUB",
+    "code":"USTMRUB",
+    "dCode":"761"
+  },
+  "USTMEUR":{
+    "name":"Unistream EUR",
+    "code":"USTMEUR",
+    "dCode":"762"
+  },
+  "NIXUSD":{
+    "name":"Nixmoney USD",
+    "code":"NIXUSD",
+    "dCode":"770"
+  },
+  "NIXEUR":{
+    "name":"Nixmoney EUR",
+    "code":"NIXEUR",
+    "dCode":"771"
+  },
+  "NIXBTC":{
+    "name":"Nixmoney BTC",
+    "code":"NIXBTC",
+    "dCode":"772"
+  },
+  "NIXLTC":{
+    "name":"Nixmoney LTC",
+    "code":"NIXLTC",
+    "dCode":"773"
+  },
+  "NIXCRT":{
+    "name":"Nixmoney CRT",
+    "code":"NIXCRT",
+    "dCode":"774"
+  },
+  "NIXCLR":{
+    "name":"Nixmoney CLR",
+    "code":"NIXCLR",
+    "dCode":"775"
+  },
+  "NIXXBL":{
+    "name":"Nixmoney XBL",
+    "code":"NIXXBL",
+    "dCode":"776"
+  },
+  "NIXFTC":{
+    "name":"Nixmoney FTC",
+    "code":"NIXFTC",
+    "dCode":"777"
+  },
+  "NIXMPPC":{
+    "name":"Nixmoney PPC",
+    "code":"NIXMPPC",
+    "dCode":"778"
+  },
+  "NIXMSVC":{
+    "name":"Nixmoney SVC",
+    "code":"NIXMSVC",
+    "dCode":"779"
+  },
+  "ANLKUSD":{
+    "name":"Anelik USD",
+    "code":"ANLKUSD",
+    "dCode":"790"
+  },
+  "ANLKRUB":{
+    "name":"Anelik RUB",
+    "code":"ANLKRUB",
+    "dCode":"791"
+  },
+  "ANLKEUR":{
+    "name":"Anelik EUR",
+    "code":"ANLKEUR",
+    "dCode":"792"
+  },
+  "BTCEUSD":{
+    "name":"Btc-e code USD",
+    "code":"BTCEUSD",
+    "dCode":"801"
+  },
+  "BTCERUB":{
+    "name":"Btc-e code RUB",
+    "code":"BTCERUB",
+    "dCode":"802"
+  },
+  "BTCEBTC":{
+    "name":"Btc-e code BTC",
+    "code":"BTCEBTC",
+    "dCode":"803"
+  },
+  "BTCELTC":{
+    "name":"Btc-e code LTC",
+    "code":"BTCELTC",
+    "dCode":"804"
+  },
+  "BTCEEUR":{
+    "name":"Btc-e code EUR",
+    "code":"BTCEEUR",
+    "dCode":"805"
+  },
+  "OTPBUAH":{
+    "name":"OTP bank UAH",
+    "code":"OTPBUAH",
+    "dCode":"810"
+  },
+  "OTPBRUB":{
+    "name":"OTP bank RUB",
+    "code":"OTPBRUB",
+    "dCode":"811"
+  },
+  "PMRUSD":{
+    "name":"Paymer USD",
+    "code":"PMRUSD",
+    "dCode":"820"
+  },
+  "PMRRUB":{
+    "name":"Paymer RUB",
+    "code":"PMRRUB",
+    "dCode":"821"
+  },
+  "PMRUAH":{
+    "name":"Paymer UAH",
+    "code":"PMRUAH",
+    "dCode":"822"
+  },
+  "UNCBUAH":{
+    "name":"UniCredit UAH",
+    "code":"UNCBUAH",
+    "dCode":"830"
+  },
+  "UNCBRUB":{
+    "name":"UniCredit RUB",
+    "code":"UNCBRUB",
+    "dCode":"831"
+  },
+  "MOSBRUB":{
+    "name":"Bank of Moscow RUB",
+    "code":"MOSBRUB",
+    "dCode":"840"
+  },
+  "GPBRUB":{
+    "name":"Gazprombank RUB",
+    "code":"GPBRUB",
+    "dCode":"850"
+  },
+  "PMBBUAH":{
+    "name":"PUMB UAH",
+    "code":"PMBBUAH",
+    "dCode":"860"
+  },
+  "ROSBRUB":{
+    "name":"Rosbank RUB",
+    "code":"ROSBRUB",
+    "dCode":"870"
+  },
+  "VB24UAH":{
+    "name":"VAB 24 UAH",
+    "code":"VB24UAH",
+    "dCode":"880"
+  },
+  "KUKRUB":{
+    "name":"Kukuruza  RUB",
+    "code":"KUKRUB",
+    "dCode":"890"
+  },
+  "GCMTRUB":{
+    "name":"Golden Crown Money Transfers RUB",
+    "code":"GCMTRUB",
+    "dCode":"900"
+  },
+  "GCMTUSD":{
+    "name":"Golden Crown Money Transfers USD",
+    "code":"GCMTUSD",
+    "dCode":"901"
+  },
+  "GCMTEUR":{
+    "name":"Golden Crown Money Transfers EUR",
+    "code":"GCMTEUR",
+    "dCode":"902"
+  },
+  "OPNBRUB":{
+    "name":"Openbank RUB",
+    "code":"OPNBRUB",
+    "dCode":"910"
+  },
+  "LTC":{
+    "name":"LiteCoin",
+    "code":"LTC",
+    "dCode":"920"
+  },
+  "TNCUSD":{
+    "name":"Technocash USD",
+    "code":"TNCUSD",
+    "dCode":"930"
+  },
+  "UNVBUAH":{
+    "name":"Universal Bank UAH",
+    "code":"UNVBUAH",
+    "dCode":"940"
+  },
+  "HLKBKZT":{
+    "name":"Halyk Bank KZT",
+    "code":"HLKBKZT",
+    "dCode":"950"
+  },
+  "HLKBUSD":{
+    "name":"Halyk Bank USD",
+    "code":"HLKBUSD",
+    "dCode":"951"
+  },
+  "CSH4PUSD":{
+    "name":"Cash4pay USD",
+    "code":"CSH4PUSD",
+    "dCode":"960"
+  },
+  "OPAYUSD":{
+    "name":"OOOPay USD",
+    "code":"OPAYUSD",
+    "dCode":"970"
+  },
+  "OPAYRUB":{
+    "name":"OOOPay RUB",
+    "code":"OPAYRUB",
+    "dCode":"971"
+  },
+  "OPAYEUR":{
+    "name":"OOOPay EUR",
+    "code":"OPAYEUR",
+    "dCode":"972"
+  },
+  "ECNEXUSD":{
+    "name":"eCoin.eu code",
+    "code":"ECNEXUSD",
+    "dCode":"980"
+  },
+  "BTMUSD":{
+    "name":"Betrae Money USD",
+    "code":"BTMUSD",
+    "dCode":"990"
+  },
+  "FPUSD":{
+    "name":"FasaPay USD",
+    "code":"FPUSD",
+    "dCode":"1000"
+  },
+  "BBRUB":{
+    "name":"Binbank RUB",
+    "code":"BBRUB",
+    "dCode":"1010"
+  },
+  "MTSBRUB":{
+    "name":"MTS Bank RUB",
+    "code":"MTSBRUB",
+    "dCode":"1020"
+  },
+  "OCNBRUB":{
+    "name":"Ocean Bank RUB",
+    "code":"OCNBRUB",
+    "dCode":"1030"
+  },
+  "CTYBRUB":{
+    "name":"Cyti Bank RUB",
+    "code":"CTYBRUB",
+    "dCode":"1040"
+  },
+  "CCXUSD":{
+    "name":"C-cex.com USD",
+    "code":"CCXUSD",
+    "dCode":"1050"
+  },
+  "CCXBTC":{
+    "name":"C-cex.com BTC",
+    "code":"CCXBTC",
+    "dCode":"1051"
+  },
+  "EXMUSD":{
+    "name":"Exmo.com USD",
+    "code":"EXMUSD",
+    "dCode":"1060"
+  },
+  "EXMRUB":{
+    "name":"Exmo.com RUB",
+    "code":"EXMRUB",
+    "dCode":"1061"
+  },
+  "EXMEUR":{
+    "name":"Exmo.com EUR",
+    "code":"EXMEUR",
+    "dCode":"1062"
+  },
+  "EXMUAH":{
+    "name":"Exmo.com UAH",
+    "code":"EXMUAH",
+    "dCode":"1063"
+  },
+  "SBEUR":{
+    "name":"SwedBank EUR",
+    "code":"SBEUR",
+    "dCode":"1070"
+  },
+  "BLRBBYR":{
+    "name":"Belarusbank BYR",
+    "code":"BLRBBYR",
+    "dCode":"1080"
+  },
+  "BLRBUSD":{
+    "name":"Belarusbank USD",
+    "code":"BLRBUSD",
+    "dCode":"1081"
+  },
+  "BLRBRUB":{
+    "name":"Belarusbank RUB",
+    "code":"BLRBRUB",
+    "dCode":"1082"
+  },
+  "BLRBEUR":{
+    "name":"Belarusbank EUR",
+    "code":"BLRBEUR",
+    "dCode":"1083"
+  },
+  "BTAKZT":{
+    "name":"BTA Bank",
+    "code":"BTAKZT",
+    "dCode":"1090"
+  },
+  "SMSRUB":{
+    "name":"SMS RUB",
+    "code":"SMSRUB",
+    "dCode":"1100"
+  },
+  "USBRUB":{
+    "name":"Uralsib Bank RUB",
+    "code":"USBRUB",
+    "dCode":"1110"
+  },
+  "RNKBRUB":{
+    "name":"RNKB Bank RUB",
+    "code":"RNKBRUB",
+    "dCode":"1120"
+  },
+  "RENBRUB":{
+    "name":"Renessans Bank RUB",
+    "code":"RENBRUB",
+    "dCode":"1130"
+  },
+  "RSHBRUB":{
+    "name":"RSH Bank RUB",
+    "code":"RSHBRUB",
+    "dCode":"1140"
+  },
+  "ADVCUSD":{
+    "name":"Advanced Cash USD",
+    "code":"ADVCUSD",
+    "dCode":"1150"
+  },
+  "ADVCRUB":{
+    "name":"Advanced Cash RUB",
+    "code":"ADVCRUB",
+    "dCode":"1151"
+  },
+  "ADVCEUR":{
+    "name":"Advanced Cash EUR",
+    "code":"ADVCEUR",
+    "dCode":"1152"
+  },
+  "ADVCUAH":{
+    "name":"Advanced Cash UAH",
+    "code":"ADVCUAH",
+    "dCode":"1153"
+  },
+  "VPUSD":{
+    "name":"VelesPay USD",
+    "code":"VPUSD",
+    "dCode":"1160"
+  },
+  "VPEUR":{
+    "name":"VelesPay EUR",
+    "code":"VPEUR",
+    "dCode":"1161"
+  },
+  "VPGPB":{
+    "name":"VelesPay GPB",
+    "code":"VPGPB",
+    "dCode":"1162"
+  },
+  "VPRUB":{
+    "name":"VelesPay  RUB",
+    "code":"VPRUB",
+    "dCode":"1163"
+  },
+  "VPCNY":{
+    "name":"VelesPay CNY",
+    "code":"VPCNY",
+    "dCode":"1164"
+  },
+  "VPVND":{
+    "name":"VelesPay VND",
+    "code":"VPVND",
+    "dCode":"1165"
+  },
+  "VPINR":{
+    "name":"VelesPay INR",
+    "code":"VPINR",
+    "dCode":"1166"
+  },
+  "VPIRR":{
+    "name":"VelesPay IRR",
+    "code":"VPIRR",
+    "dCode":"1167"
+  },
+  "VPZAR":{
+    "name":"VelesPay ZAR",
+    "code":"VPZAR",
+    "dCode":"1168"
+  },
+  "VPTHB":{
+    "name":"VelesPay THB",
+    "code":"VPTHB",
+    "dCode":"1169"
+  },
+  "VPAUD":{
+    "name":"VelesPay AUD",
+    "code":"VPAUD",
+    "dCode":"1170"
+  },
+  "VPCAD":{
+    "name":"VelesPay CAD",
+    "code":"VPCAD",
+    "dCode":"1171"
+  },
+  "VPNZD":{
+    "name":"VelesPay NZD",
+    "code":"VPNZD",
+    "dCode":"1172"
+  },
+  "VPHKD":{
+    "name":"VelesPay HKD",
+    "code":"VPHKD",
+    "dCode":"1173"
+  },
+  "VPUAH":{
+    "name":"VelesPay UAH",
+    "code":"VPUAH",
+    "dCode":"1174"
+  },
+  "VPBYR":{
+    "name":"VelesPay BYR",
+    "code":"VPBYR",
+    "dCode":"1175"
+  },
+  "VPKZT":{
+    "name":"VelesPay KZT",
+    "code":"VPKZT",
+    "dCode":"1176"
+  },
+  "VPKGS":{
+    "name":"VelesPay KGS",
+    "code":"VPKGS",
+    "dCode":"1177"
+  },
+  "VPMXN":{
+    "name":"VelesPay MXN",
+    "code":"VPMXN",
+    "dCode":"1178"
+  },
+  "VPVEF":{
+    "name":"VelesPay VEF",
+    "code":"VPVEF",
+    "dCode":"1179"
+  },
+  "VPBRL":{
+    "name":"VelesPay BRL",
+    "code":"VPBRL",
+    "dCode":"1180"
+  },
+  "VPCLP":{
+    "name":"VelesPay CLP",
+    "code":"VPCLP",
+    "dCode":"1181"
+  },
+  "VPEGP":{
+    "name":"VelesPay EGP",
+    "code":"VPEGP",
+    "dCode":"1182"
+  },
+  "VPTRY":{
+    "name":"VelesPay TRY",
+    "code":"VPTRY",
+    "dCode":"1183"
+  },
+  "VPGEL":{
+    "name":"VelesPay GEL",
+    "code":"VPGEL",
+    "dCode":"1184"
+  },
+  "VPIDR":{
+    "name":"VelesPay IDR",
+    "code":"VPIDR",
+    "dCode":"1185"
+  },
+  "VPIQD":{
+    "name":"VelesPay IQD",
+    "code":"VPIQD",
+    "dCode":"1186"
+  },
+  "VPILS":{
+    "name":"VelesPay ILS",
+    "code":"VPILS",
+    "dCode":"1187"
+  },
+  "VPKRW":{
+    "name":"VelesPay KRW",
+    "code":"VPKRW",
+    "dCode":"1188"
+  },
+  "VPMDL":{
+    "name":"VelesPay MDL",
+    "code":"VPMDL",
+    "dCode":"1189"
+  },
+  "VPPLN":{
+    "name":"VelesPay PLN",
+    "code":"VPPLN",
+    "dCode":"1190"
+  },
+  "VPAED":{
+    "name":"VelesPay AED",
+    "code":"VPAED",
+    "dCode":"1191"
+  },
+  "VPCHF":{
+    "name":"VelesPay CHF",
+    "code":"VPCHF",
+    "dCode":"1192"
+  },
+  "VPHRK":{
+    "name":"VelesPay HRK",
+    "code":"VPHRK",
+    "dCode":"1193"
+  },
+  "VPCZK":{
+    "name":"VelesPay CZK",
+    "code":"VPCZK",
+    "dCode":"1194"
+  },
+  "VPDKK":{
+    "name":"VelesPay DKK",
+    "code":"VPDKK",
+    "dCode":"1195"
+  },
+  "VPHUF":{
+    "name":"VelesPay HUF",
+    "code":"VPHUF",
+    "dCode":"1196"
+  },
+  "VPJPY":{
+    "name":"VelesPay JPY",
+    "code":"VPJPY",
+    "dCode":"1197"
+  },
+  "VPNOK":{
+    "name":"VelesPay NOK",
+    "code":"VPNOK",
+    "dCode":"1198"
+  },
+  "VPSEK":{
+    "name":"VelesPay SEK",
+    "code":"VPSEK",
+    "dCode":"1199"
+  },
+  "LPUSD":{
+    "name":"LavaPay USD",
+    "code":"LPUSD",
+    "dCode":"1200"
+  },
+  "LPRUB":{
+    "name":"LavaPay RUB",
+    "code":"LPRUB",
+    "dCode":"1201"
+  },
+  "LPEUR":{
+    "name":"LavaPay EUR",
+    "code":"LPEUR",
+    "dCode":"1202"
+  },
+  "LPUAH":{
+    "name":"LavaPay UAH",
+    "code":"LPUAH",
+    "dCode":"1203"
+  },
+  "LPGBP":{
+    "name":"LavaPay GBP",
+    "code":"LPGBP",
+    "dCode":"1204"
+  },
+  "LPCNY":{
+    "name":"LavaPay CNY",
+    "code":"LPCNY",
+    "dCode":"1205"
+  },
+  "LPCAD":{
+    "name":"LavaPay CAD",
+    "code":"LPCAD",
+    "dCode":"1206"
+  },
+  "LPAUD":{
+    "name":"LavaPay AUD",
+    "code":"LPAUD",
+    "dCode":"1207"
+  },
+  "HMEUR":{
+    "name":"HelixMoney EUR",
+    "code":"HMEUR",
+    "dCode":"1210"
+  },
+  "HMRUB":{
+    "name":"HelixMoney RUB",
+    "code":"HMRUB",
+    "dCode":"1211"
+  },
+  "HMUAH":{
+    "name":"HelixMoney UAH",
+    "code":"HMUAH",
+    "dCode":"1212"
+  },
+  "HMUSD":{
+    "name":"HelixMoney USD",
+    "code":"HMUSD",
+    "dCode":"1213"
+  },
+  "WTUSD":{
+    "name":"Webtransfer USD",
+    "code":"WTUSD",
+    "dCode":"1220"
+  },
+  "WTUSD2":{
+    "name":"Webtransfer USD ❤",
+    "code":"WTUSD2",
+    "dCode":"1221"
+  },
+  "WTUSD1":{
+    "name":"Webtransfer USD1",
+    "code":"WTUSD1",
+    "dCode":"1222"
+  },
+  "WTCCREDS":{
+    "name":"Webtransfer C-CREDS",
+    "code":"WTCCREDS",
+    "dCode":"1223"
+  },
+  "WTPCREDS":{
+    "name":"Webtransfer P-CREDS",
+    "code":"WTPCREDS",
+    "dCode":"1224"
+  },
+  "WTCARD":{
+    "name":"Webtransfer Card",
+    "code":"WTCARD",
+    "dCode":"1225"
+  },
+  "WTDEBIT":{
+    "name":"Webtransfer DEBIT",
+    "code":"WTDEBIT",
+    "dCode":"1226"
+  },
+  "FRTBKZT":{
+    "name":"ForteBank KZT",
+    "code":"FRTBKZT",
+    "dCode":"1230"
+  },
+  "FRTBUSD":{
+    "name":"ForteBank USD",
+    "code":"FRTBUSD",
+    "dCode":"1231"
+  },
+  "DMRBUSD":{
+    "name":"DemirBank USD",
+    "code":"DMRBUSD",
+    "dCode":"1240"
+  },
+  "OSDBUAH":{
+    "name":"Oschadbank UAH",
+    "code":"OSDBUAH",
+    "dCode":"1250"
+  },
+  "EDR":{
+    "name":"E-DINAR",
+    "code":"EDR",
+    "dCode":"1260"
+  },
+  "EDRC":{
+    "name":"EDRCoin",
+    "code":"EDRC",
+    "dCode":"1261"
+  },
+  "LVPUSD":{
+    "name":"LvPay USD",
+    "code":"LVPUSD",
+    "dCode":"1270"
+  },
+  "LVPEUR":{
+    "name":"LvPay EUR",
+    "code":"LVPEUR",
+    "dCode":"1271"
+  },
+  "LVPRUB":{
+    "name":"LvPay RUB",
+    "code":"LVPRUB",
+    "dCode":"1272"
+  },
+  "LVPUAH":{
+    "name":"LvPay UAH",
+    "code":"LVPUAH",
+    "dCode":"1273"
+  },
+  "LVPBYR":{
+    "name":"LvPay BYR",
+    "code":"LVPBYR",
+    "dCode":"1274"
+  },
+  "LVPGBP":{
+    "name":"LvPay GBP",
+    "code":"LVPGBP",
+    "dCode":"1275"
+  },
+  "LVPCNY":{
+    "name":"LvPay CNY",
+    "code":"LVPCNY",
+    "dCode":"1276"
+  },
+  "LVPCAD":{
+    "name":"LvPay CAD",
+    "code":"LVPCAD",
+    "dCode":"1277"
+  },
+  "LVPAUD":{
+    "name":"LvPay AUD",
+    "code":"LVPAUD",
+    "dCode":"1278"
+  },
+  "OCNEUR":{
+    "name":"OneCoin EUR",
+    "code":"OCNEUR",
+    "dCode":"1280"
+  },
+  "ATNBKZT":{
+    "name":"Astana Bank",
+    "code":"ATNBKZT",
+    "dCode":"1290"
+  },
+  "AKBBRUB":{
+    "name":"AcBarsBank RUB",
+    "code":"AKBBRUB",
+    "dCode":"1300"
+  },
+  "RMTFUSD":{
+    "name":"Ria Financial USD",
+    "code":"RMTFUSD",
+    "dCode":"1340"
+  },
+  "RMTFEUR":{
+    "name":"Ria Financial EUR",
+    "code":"RMTFEUR",
+    "dCode":"1341"
+  },
+  "EPSUSD":{
+    "name":"EPESE USD",
+    "code":"EPSUSD",
+    "dCode":"1350"
+  },
+  "CPLTUSD":{
+    "name":"Capitalist USD",
+    "code":"CPLTUSD",
+    "dCode":"1360"
+  },
+  "CPTLEUR":{
+    "name":"Capitalist EUR",
+    "code":"CPTLEUR",
+    "dCode":"1361"
+  },
+  "CPTLRUB":{
+    "name":"Capitalist RUB",
+    "code":"CPTLRUB",
+    "dCode":"1362"
+  },
+  "CRPTCHUSD":{
+    "name":"Cryptocheck USD",
+    "code":"CRPTCHUSD",
+    "dCode":"1370"
+  },
+  "LVCUSD":{
+    "name":"Livecoin code USD",
+    "code":"LVCUSD",
+    "dCode":"1380"
+  },
+  "LVCRUB":{
+    "name":"Livecoin code RUB",
+    "code":"LVCRUB",
+    "dCode":"1381"
+  },
+  "LVCEUR":{
+    "name":"Livecoin code EUR",
+    "code":"LVCEUR",
+    "dCode":"1382"
+  },
+  "WSMUZS":{
+    "name":"Websum UZS",
+    "code":"WSMUZS",
+    "dCode":"1390"
+  },
+  "MPLUSD":{
+    "name":"MoneyPolo USD",
+    "code":"MPLUSD",
+    "dCode":"1400"
+  },
+  "MPLEUR":{
+    "name":"MoneyPolo EUR",
+    "code":"MPLEUR",
+    "dCode":"1401"
+  },
+  "MPLRUB":{
+    "name":"MoneyPolo RUB",
+    "code":"MPLRUB",
+    "dCode":"1402"
+  },
+  "ATFBKZT":{
+    "name":"ATF Bank KZT",
+    "code":"ATFBKZT",
+    "dCode":"1410"
+  },
+  "ATFBUSD":{
+    "name":"ATF Bank USD",
+    "code":"ATFBUSD",
+    "dCode":"1411"
+  },
+  "EURBKZT":{
+    "name":"Eurasian Bank KZT",
+    "code":"EURBKZT",
+    "dCode":"1420"
+  },
+  "EURBUSD":{
+    "name":"Eurasian Bank USD",
+    "code":"EURBUSD",
+    "dCode":"1421"
+  },
+  "ALPCNY":{
+    "name":"Alipay CNY",
+    "code":"ALPCNY",
+    "dCode":"1430"
+  },
+  "ACCIUSD":{
+    "name":"Alfa Bank USD cash-in",
+    "code":"ACCIUSD",
+    "dCode":"1440"
+  },
+  "ACCIRUB":{
+    "name":"Alfa Bank RUB cash-in",
+    "code":"ACCIRUB",
+    "dCode":"1441"
+  },
+  "ACCIEUR":{
+    "name":"Alfa Bank EUR cash-in",
+    "code":"ACCIEUR",
+    "dCode":"1442"
+  },
+  "RUSSTCIRUB":{
+    "name":"RusStandard RUB Cash-in",
+    "code":"RUSSTCIRUB",
+    "dCode":"1450"
+  },
+  "WMOUSD":{
+    "name":"W Money USD",
+    "code":"WMOUSD",
+    "dCode":"1460"
+  },
+  "WMORUB":{
+    "name":"W Money RUB",
+    "code":"WMORUB",
+    "dCode":"1461"
+  },
+  "WMOUAH":{
+    "name":"W Money UAH",
+    "code":"WMOUAH",
+    "dCode":"1462"
+  },
+  "REYUSD":{
+    "name":"Reydex USD",
+    "code":"REYUSD",
+    "dCode":"1470"
+  },
+  "REYRUB":{
+    "name":"Reydex RUB",
+    "code":"REYRUB",
+    "dCode":"1471"
+  },
+  "TOCHRUB":{
+    "name":"Toch Bank RUB",
+    "code":"TOCHRUB",
+    "dCode":"1480"
+  },
+  "ABCBCNY":{
+    "name":"Agricultural Bank of China CNY",
+    "code":"ABCBCNY",
+    "dCode":"1490"
+  },
+  "BCBCNY":{
+    "name":"Bank of China CNY",
+    "code":"BCBCNY",
+    "dCode":"1500"
+  },
+  "BCBUSD":{
+    "name":"Bank of China USD",
+    "code":"BCBUSD",
+    "dCode":"1501"
+  },
+  "WCTCNY":{
+    "name":"WeChat CNY",
+    "code":"WCTCNY",
+    "dCode":"1510"
+  },
+  "CSTRMTUSD":{
+    "name":"Coinstar (Sigue) USD",
+    "code":"CSTRMTUSD",
+    "dCode":"1520"
+  },
+  "CSTRMTEUR":{
+    "name":"Coinstar (Sigue) EUR",
+    "code":"CSTRMTEUR",
+    "dCode":"1521"
+  },
+  "CCBCNY":{
+    "name":"China Construction Bank CNY",
+    "code":"CCBCNY",
+    "dCode":"1530"
+  },
+  "ICBCCNY":{
+    "name":"Industrial and Commercial Bank of China CNY",
+    "code":"ICBCCNY",
+    "dCode":"1540"
+  },
+  "CMBCNY":{
+    "name":"China Merchants Bank CNY",
+    "code":"CMBCNY",
+    "dCode":"1550"
+  },
+  "PNRUSD":{
+    "name":"Payoneer USD",
+    "code":"PNRUSD",
+    "dCode":"1560"
+  },
+  "TTRUSD":{
+    "name":"Tether USD",
+    "code":"TTRUSD",
+    "dCode":"1570"
+  },
+  "RCNUSD":{
+    "name":"Rcoin USD",
+    "code":"RCNUSD",
+    "dCode":"1590"
+  },
+  "RCNCRPT":{
+    "name":"Rcoin CRPT",
+    "code":"RCNCRPT",
+    "dCode":"1591"
+  },
+  "EDC":{
+    "name":"E-DINAR COIN",
+    "code":"EDC",
+    "dCode":"1600"
+  },
+  "BTPUSD":{
+    "name":"Bitport USD",
+    "code":"BTPUSD",
+    "dCode":"1620"
+  },
+  "BTPEUR":{
+    "name":"Bitport EUR",
+    "code":"BTPEUR",
+    "dCode":"1621"
+  },
+  "BTPRUB":{
+    "name":"Bitport RUB",
+    "code":"BTPRUB",
+    "dCode":"1622"
+  },
+  "BTPUAH":{
+    "name":"Bitport UAH",
+    "code":"BTPUAH",
+    "dCode":"1623"
+  },
+  "BTPGBP":{
+    "name":"Bitport GBP",
+    "code":"BTPGBP",
+    "dCode":"1624"
+  },
+  "BTPCNY":{
+    "name":"Bitport CNY",
+    "code":"BTPCNY",
+    "dCode":"1626"
+  },
+  "PIN":{
+    "name":"Piron",
+    "code":"PIN",
+    "dCode":"1630"
+  },
+  "SMUSD":{
+    "name":"Simple Money USD",
+    "code":"SMUSD",
+    "dCode":"1640"
+  },
+  "SMRUB":{
+    "name":"Simple Money RUB",
+    "code":"SMRUB",
+    "dCode":"1641"
+  },
+  "SMUAH":{
+    "name":"Simple Money UAH",
+    "code":"SMUAH",
+    "dCode":"1642"
+  },
+  "SMEUR":{
+    "name":"Simple Money EUR",
+    "code":"SMEUR",
+    "dCode":"1643"
+  },
+  "ETH":{
+    "name":"Ethereum",
+    "code":"ETH",
+    "dCode":"1650"
+  },
+  "HBRUB":{
+    "name":"HandyBank RUB",
+    "code":"HBRUB",
+    "dCode":"1660"
+  },
+  "WSUAH":{
+    "name":"Welsend UAH",
+    "code":"WSUAH",
+    "dCode":"1670"
+  },
+  "WSUSD":{
+    "name":"Welsend USD",
+    "code":"WSUSD",
+    "dCode":"1671"
+  },
+  "WSEUR":{
+    "name":"Welsend EUR",
+    "code":"WSEUR",
+    "dCode":"1672"
+  },
+  "WSRUB":{
+    "name":"Welsend RUB",
+    "code":"WSRUB",
+    "dCode":"1673"
+  },
+  "XMR":{
+    "name":"Monero",
+    "code":"XMR",
+    "dCode":"1680"
+  },
+  "REP":{
+    "name":"Augur",
+    "code":"REP",
+    "dCode":"1690"
+  },
+  "MXBTC":{
+    "name":"Mercatox BTC",
+    "code":"MXBTC",
+    "dCode":"1700"
+  },
+  "BCN":{
+    "name":"Bytecoin",
+    "code":"BCN",
+    "dCode":"1710"
+  },
+  "CLAM":{
+    "name":"Clams",
+    "code":"CLAM",
+    "dCode":"1720"
+  },
+  "DASH":{
+    "name":"Dash",
+    "code":"DASH",
+    "dCode":"1730"
+  },
+  "LSK":{
+    "name":"Lisk",
+    "code":"LSK",
+    "dCode":"1740"
+  },
+  "NMC":{
+    "name":"Namecoin",
+    "code":"NMC",
+    "dCode":"1750"
+  },
+  "PPC":{
+    "name":"Peercoin",
+    "code":"PPC",
+    "dCode":"1760"
+  },
+  "DOGE":{
+    "name":"Dogecoin",
+    "code":"DOGE",
+    "dCode":"1770"
+  },
+  "ZEC":{
+    "name":"Zcash",
+    "code":"ZEC",
+    "dCode":"1780"
+  },
+  "BCIIDR":{
+    "name":"Bitcoin.co.id IDR",
+    "code":"BCIIDR",
+    "dCode":"1790"
+  },
+  "ECNUSD":{
+    "name":"eCoin.cc USD",
+    "code":"ECNUSD",
+    "dCode":"1800"
+  },
+  "ECNEUR":{
+    "name":"eCoin.cc EUR",
+    "code":"ECNEUR",
+    "dCode":"1801"
+  },
+  "PSRUSD":{
+    "name":"PaySera USD",
+    "code":"PSRUSD",
+    "dCode":"1810"
+  },
+  "PSREUR":{
+    "name":"PaySera EUR",
+    "code":"PSREUR",
+    "dCode":"1811"
+  },
+  "DPUSD":{
+    "name":"DotPay USD",
+    "code":"DPUSD",
+    "dCode":"1820"
+  },
+  "DPBTC":{
+    "name":"DotPay BTC",
+    "code":"DPBTC",
+    "dCode":"1821"
+  },
+  "ETC":{
+    "name":"Ethereum Classic",
+    "code":"ETC",
+    "dCode":"1830"
+  },
+  "CNMTEUR":{
+    "name":"Coinmate EUR",
+    "code":"CNMTEUR",
+    "dCode":"1840"
+  },
+  "EKZT":{
+    "name":"EKZT KZT",
+    "code":"EKZT",
+    "dCode":"1850"
+  },
+  "EMC":{
+    "name":"Emercoin",
+    "code":"EMC",
+    "dCode":"1860"
+  },
+  "EPAYUSD":{
+    "name":"Epay USD",
+    "code":"EPAYUSD",
+    "dCode":"1870"
+  },
+  "FLPNCAD":{
+    "name":"Flexepin CAD",
+    "code":"FLPNCAD",
+    "dCode":"1880"
+  },
+  "HCSBKZT":{
+    "name":"Zhilstroysberbank KZT",
+    "code":"HCSBKZT",
+    "dCode":"1890"
+  },
+  "BTCUPUSD":{
+    "name":"BTC-UP USD",
+    "code":"BTCUPUSD",
+    "dCode":"1900"
+  },
+  "BTCUPEUR":{
+    "name":"BTC-UP EUR",
+    "code":"BTCUPEUR",
+    "dCode":"1901"
+  },
+  "BTCUPRUB":{
+    "name":"BTC-UP RUB",
+    "code":"BTCUPRUB",
+    "dCode":"1902"
+  },
+  "BTCUPCNY":{
+    "name":"BTC-UP CNY",
+    "code":"BTCUPCNY",
+    "dCode":"1903"
+  },
+  "BTCUPBTC":{
+    "name":"BTC-UP BTC",
+    "code":"BTCUPBTC",
+    "dCode":"1904"
+  },
+  "BTCUPLTC":{
+    "name":"BTC-UP LTC",
+    "code":"BTCUPLTC",
+    "dCode":"1905"
+  },
+  "BTCUPUAH":{
+    "name":"BTC-UP UAH",
+    "code":"BTCUPUAH",
+    "dCode":"1906"
+  },
+  "BTCUPEDR":{
+    "name":"BTC-UP EDR",
+    "code":"BTCUPEDR",
+    "dCode":"1907"
+  },
+  "BTCUPEMC":{
+    "name":"BTC-UP EMC",
+    "code":"BTCUPEMC",
+    "dCode":"1908"
+  },
+  "BTCUPETH":{
+    "name":"BTC-UP ETH",
+    "code":"BTCUPETH",
+    "dCode":"1909"
+  },
+  "BTCUPGBP":{
+    "name":"BTC-UP GBP",
+    "code":"BTCUPGBP",
+    "dCode":"1910"
+  },
+  "BTCUPHKD":{
+    "name":"BTC-UP HKD",
+    "code":"BTCUPHKD",
+    "dCode":"1911"
+  },
+  "PVTMEUR":{
+    "name":"PrivatMoney EUR",
+    "code":"PVTMEUR",
+    "dCode":"1920"
+  },
+  "PVTMUAH":{
+    "name":"PrivatMoney UAH",
+    "code":"PVTMUAH",
+    "dCode":"1921"
+  },
+  "PVTMUSD":{
+    "name":"PrivatMoney USD",
+    "code":"PVTMUSD",
+    "dCode":"1922"
+  },
+  "SBRKBUSD":{
+    "name":"Sberbank Kolibri USD",
+    "code":"SBRKBUSD",
+    "dCode":"1930"
+  },
+  "ECPZRUB":{
+    "name":"Ecopayz RUB",
+    "code":"ECPZRUB",
+    "dCode":"1940"
+  },
+  "ECPZEUR":{
+    "name":"Ecopayz EUR",
+    "code":"ECPZEUR",
+    "dCode":"1941"
+  },
+  "ECPZUSD":{
+    "name":"Ecopayz USD",
+    "code":"ECPZUSD",
+    "dCode":"1942"
+  }
+}
