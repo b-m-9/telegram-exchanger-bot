@@ -1,5 +1,5 @@
 const Telegraf = require('telegraf');
-const request = require('request');
+const cloudscraper = require('cloudscraper');
 const X2JS = require('x2js');
 const config = require('./configbot.json');
 const currencies = require('./currencies.json');
@@ -13,7 +13,6 @@ function getCurrencyName(code) {
 class ConversionRates {
     constructor(cfg) {
         this.config = cfg;
-        this.config.feeds = [];
         this.conversions = {};
         this.exchangers = {};
     }
@@ -31,7 +30,7 @@ class ConversionRates {
     static loadFeed(url) {
         return new Promise((resolve, reject) => {
 
-            request(url, (err, res, body) => {
+            cloudscraper.get(url, (err, res, body) => {
                 if (err) reject(err);
                 const data = ConversionRates.parseFeed(body,url);
                 resolve(data);
@@ -41,7 +40,7 @@ class ConversionRates {
 
     static loadListExchanger(url) {
         return new Promise((resolve, reject) => {
-            request(url, (err, res, body) => {
+            cloudscraper.get(url, (err, res, body) => {
                 if (err) reject(err);
                 const data = JSON.parse(body);
                 resolve(data.result);
@@ -69,49 +68,55 @@ class ConversionRates {
     }
 
     async update() {
-        this.conversions = {};
-        this.config.feeds = await ConversionRates.loadListExchanger('https://proexchanger.net/api/v1/public_get_list_monitoring_exchanger');
-        const rates = await Promise.all(this.config.feeds.map(async (feed, index) => {
-                let rates = await ConversionRates.loadFeed(feed.xml);
-                if (rates)
-                    Object.assign(feed, {
-                        rates:rates,
-                        index,
-                    })
+        const feeds = await ConversionRates.loadListExchanger('https://proexchanger.net/api/v1/public_get_list_monitoring_exchanger');
+        const loadedFeeds = await Promise.all(feeds.map( async (feed) => {
+            try {
+                return {
+                    ...feed,
+                    rates: await ConversionRates.loadFeed(feed.xml),
+                }
+            } catch (e) {
+                return feed;
             }
-        ));
-        rates.forEach((source) => {
-            source.rates.forEach((item) => {
-                if (!this.conversions[item.from]) {
-                    this.conversions[item.from] = {};
-                }
-                if (!this.conversions[item.from][item.to]) {
-                    this.conversions[item.from][item.to] = [];
-                }
-                if (!this.exchangers[source.index]) {
-                    this.exchangers[source.index] = {};
-                }
-                if (!this.exchangers[source.index][item.from]) {
-                    this.exchangers[source.index][item.from] = {};
-                }
-                this.conversions[item.from][item.to].push({
-                    exchange: source.name,
-                    index: source.index,
-                    in: item.in,
-                    out: item.out,
-                    minamount: item.minamount,
-                    amount: item.amount,
+        }));
+        [ this.conversions, this.exchangers ] = loadedFeeds
+            .filter(f => Boolean(f && f.rates && f.rates.length))
+            .reduce((accum, feed, index) => {
+                const [ conversions, exchangers ] = accum;
+                feed.rates.forEach((item) => {
+                    if (!conversions[item.from]) {
+                        conversions[item.from] = {};
+                    }
+                    if (!conversions[item.from][item.to]) {
+                        conversions[item.from][item.to] = [];
+                    }
+                    if (!exchangers[index]) {
+                        exchangers[index] = {};
+                    }
+                    if (!exchangers[index][item.from]) {
+                        exchangers[index][item.from] = {};
+                    }
+                    conversions[item.from][item.to].push({
+                        exchange: feed.name,
+                        index,
+                        in: item.in,
+                        out: item.out,
+                        minamount: item.minamount,
+                        amount: item.amount,
+                    });
+                    exchangers[index][item.from][item.to] = {
+                        name: feed.name,
+                        link: feed.link,
+                        in: item.in,
+                        out: item.out,
+                        minamount: item.minamount,
+                        amount: item.amount,
+                    };
                 });
-                this.exchangers[source.index][item.from][item.to] = {
-                    name: source.name,
-                    link: source.link,
-                    in: item.in,
-                    out: item.out,
-                    minamount: item.minamount,
-                    amount: item.amount,
-                };
-            });
-        });
+                return [conversions, exchangers];
+        }, [ {}, {} ]);
+        console.log(`Loaded ${Object.keys(this.exchangers).length} sources`);
+        return Promise.resolve();
     }
 }
 

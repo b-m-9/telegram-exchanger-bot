@@ -9,6 +9,7 @@
   "author": "Vladimir Luss <stainful@gmail.com>",
   "license": "ISC",
   "dependencies": {
+    "cloudscraper": "^1.4.1",
     "request": "^2.81.0",
     "telegraf": "^3.14.0",
     "x2js": "^3.1.1"
