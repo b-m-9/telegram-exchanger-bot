@@ -42,6 +42,7 @@ class ConversionRates {
         return new Promise((resolve, reject) => {
             cloudscraper.get(url, (err, res, body) => {
                 if (err) reject(err);
+                if(!body) reject('body undefined')
                 const data = JSON.parse(body);
                 resolve(data.result);
             });
@@ -68,7 +69,7 @@ class ConversionRates {
     }
 
     async update() {
-        const feeds = await ConversionRates.loadListExchanger('https://proexchanger.net/api/v1/public_get_list_monitoring_exchanger');
+        const feeds = await ConversionRates.loadListExchanger('https://proexchanger.net/service/api/v1/public_get_list_monitoring_exchanger');
         const loadedFeeds = await Promise.all(feeds.map( async (feed) => {
             try {
                 return {
