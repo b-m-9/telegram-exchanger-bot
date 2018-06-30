@@ -69,7 +69,7 @@ class ConversionRates {
     }
 
     async update() {
-        const feeds = await ConversionRates.loadListExchanger('https://proexchanger.net/service/api/v1/public_get_list_monitoring_exchanger');
+        const feeds = await ConversionRates.loadListExchanger('https://proexchanger.net/service/api/v1/getListMonitoringExchangers');
         const loadedFeeds = await Promise.all(feeds.map( async (feed) => {
             try {
                 return {
