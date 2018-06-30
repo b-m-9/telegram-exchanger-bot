@@ -44,7 +44,7 @@ class ConversionRates {
                 if (err) reject(err);
                 if(!body) reject('body undefined')
                 const data = JSON.parse(body);
-                resolve(data.result);
+                resolve(data.daat.result);
             });
         });
     }
